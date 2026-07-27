@@ -34,3 +34,15 @@ int main()
 
     return 0;
 }
+
+
+
+//Enter size: 6
+// Enter elements:
+// 5
+// 1
+// 4
+// 2
+// 8
+// 3
+// Sorted Array: 1 2 3 4 5 8
