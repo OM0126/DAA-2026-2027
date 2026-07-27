@@ -88,3 +88,14 @@ int main()
 
     return 0;
 }
+
+
+// Enter the number of elements: 6
+// Enter the elements:
+// 5
+// 1
+// 4
+// 2
+// 8
+// 3
+// Sorted array: 1 2 3 4 5 8
