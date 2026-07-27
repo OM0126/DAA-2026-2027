@@ -1,12 +1,19 @@
 # Linear Search in Python
 
-numbers = [10, 20, 30, 40, 50]
+
+n = int(input("Enter the number of elements: "))
+
+numbers = []
+
+print("Enter the elements:")
+for i in range(n):
+    numbers.append(int(input()))
 
 target = int(input("Enter the number to search: "))
 
 found = False
 
-for i in range(len(numbers)):
+for i in range(n):
     if numbers[i] == target:
         print("Number found at index", i)
         found = True
@@ -14,8 +21,6 @@ for i in range(len(numbers)):
 
 if found == False:
     print("Number not found")
-
-
 
 
 
