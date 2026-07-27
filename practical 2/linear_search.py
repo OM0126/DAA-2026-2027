@@ -14,3 +14,17 @@ for i in range(len(numbers)):
 
 if found == False:
     print("Number not found")
+
+
+
+
+
+# Enter the number of elements: 5
+# Enter the elements:
+# 10
+# 20
+# 30
+# 40
+# 50
+# Enter the number to search: 30
+# Number found at index 2
