@@ -22,3 +22,17 @@ while low <= high:
 
 if low > high:
     print("Number not found")
+
+
+
+# Enter the number of elements: 7
+# Enter the elements:
+# 10
+# 20
+# 30
+# 40
+# 50
+# 60
+# 70
+# Enter the number to search: 50
+# Number found at index 4
